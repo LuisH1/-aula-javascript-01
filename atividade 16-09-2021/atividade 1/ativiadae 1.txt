@@ -1,0 +1,61 @@
+1) Criar variáveis com tipos de dados:
+
+a) Number
+
+>function numero(){
+    var numero_inteiro = 4;
+    console.log(numero_inteiro)
+}
+numero()
+
+b) String
+
+>> var texto_aspas_simples = 'texto @ bom sábado';
+var texto_aspas_duplas = "texto # domingooou";
+
+console.log(texto_aspas_simples);
+console.log(texto_aspas_duplas);
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  	function finaldesemana(){
+							var texto_aspas_simples = 'texto @ bom sábado';
+							var texto_aspas_duplas = "texto # domingooou";
+							console.log(texto_aspas_simples);
+							console.log(texto_aspas_duplas);
+							}
+							finaldesemana()
+
+
+c) Boolean
+
+>> 
+var ehVerdade = true;
+var ehMentira = false;
+console.log("você está estudando?");
+console.log(ehVerdade);
+
+console.log("Você tem folga?");
+console.log(ehMentira);
+
+d) Array
+
+>> var frutas = ["manga","acerola", "pinha"];
+console.log(frutas)
+
+e) Object
+
+>>> var carro = {cor: "preto", modelo: "Gol", ano: 2010, ehSeminovo: true};
+console.log(carro);
+console.log(carro.ano);
+console.log(carro.modelo);
+
+f) Undefined
+>>>   var valor_nao_definido;
+console.log("valor_200mil: " + valor_nao_definido);
+
+g) Null
+
+
+>>>var valor_vazio = null;
+console.log("valor_50mil: " + valor_vazio);
+

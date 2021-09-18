@@ -1,0 +1,25 @@
+ 1)      Criar duas variáveis usando a palavra-chave var.
+
+
+>>  var nome = "jose"
+console.log (nome)
+var nome = "pietra"
+console.log (nome)
+
+
+2)      Criar duas variáveis usando a palavra-chave let.
+
+>> let idade = 15;
+console.log(idade);
+idade = 20
+console.log(idade)
+
+
+3)      Criar duas constantes usando a palavra-chave const.
+
+>> const pi = 3.14;
+console.log(pi);
+>>
+
+const pi = 3.15;
+console.log(pi);
